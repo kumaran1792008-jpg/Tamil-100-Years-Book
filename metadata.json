@@ -1,0 +1,10 @@
+{
+  "name": "தமிழ் மரபு AI — Tamil Heritage AI",
+  "description": "Complete functional Tamil book digitization, anti-hallucination OCR, image restoration, and historical text review system.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
